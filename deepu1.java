@@ -1,4 +1,4 @@
-
+// this is the file for the average marks for a student
 import  java.util.Scanner;
 
 public class deepu1{
